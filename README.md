@@ -1,9 +1,8 @@
-# Dan's AOC 2021 solutions
+# Dan's AOC solutions
 
-My attempts at solving Advent of Code 2021, this year in Rust (hoping that this is finally
-some sensible project where I can learn it).
-
-There's no guarantee that I won't switch back to C++ when I get too frustrated with Rust :-)
+My attempts at solving Advent of Code. I started committing to repository during AoC 2021 and I decided to
+use Rust. In the meantime as I'm waiting for new challanges, I'm also solving AoCs from previous years. For
+now I'm sticking to Rust everywhere, but I might change to some other random language.
 
 ## License
 
